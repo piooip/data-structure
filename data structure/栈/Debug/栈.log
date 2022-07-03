@@ -1,0 +1,3 @@
+﻿  stack.c
+D:\编程\栈\stack.c(22,1): warning C4133: “初始化”: 从“ST *”到“STDatatybe *”的类型不兼容
+  栈.vcxproj -> D:\编程\栈\Debug\栈.exe

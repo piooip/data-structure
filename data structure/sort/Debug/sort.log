@@ -1,0 +1,4 @@
+﻿  test.c
+D:\编程\sort\test.c(19,15): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\编程\sort\test.c(56,21): warning C4020: “QuickSort”: 实参太多
+  sort.vcxproj -> D:\编程\sort\Debug\sort.exe

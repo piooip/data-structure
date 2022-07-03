@@ -1,0 +1,14 @@
+﻿  test.c
+D:\编程\链表练习\test.c(27,33): warning C4047: “函数”:“int *”与“int **”的间接级别不同
+D:\编程\链表练习\test.c(27,31): warning C4024: “CreatPreTree”: 形参和实参 1 的类型不同
+D:\编程\链表练习\test.c(28,34): warning C4047: “函数”:“int *”与“int **”的间接级别不同
+D:\编程\链表练习\test.c(28,32): warning C4024: “CreatPreTree”: 形参和实参 1 的类型不同
+D:\编程\链表练习\test.c(46,13): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\编程\链表练习\test.c(46,13): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\编程\链表练习\test.c(46,13): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\编程\链表练习\test.c(46,13): message : 此参数用作缓冲区大小
+D:\编程\链表练习\test.c(48,32): warning C4013: “CraetPreTree”未定义；假设外部返回 int
+D:\编程\链表练习\test.c(48,1): warning C4047: “初始化”:“BTNode *”与“int”的间接级别不同
+源.obj : error LNK2005: _main 已经在 test.obj 中定义
+test.obj : error LNK2019: 无法解析的外部符号 _CraetPreTree，函数 _main 中引用了该符号
+D:\编程\链表练习\Debug\链表练习.exe : fatal error LNK1120: 1 个无法解析的外部命令

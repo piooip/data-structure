@@ -1,0 +1,5 @@
+﻿sort.obj : error LNK2019: 无法解析的外部符号 _Partsort3，函数 _QuickSortNonr 中引用了该符号
+sort.obj : error LNK2019: 无法解析的外部符号 _swap，函数 _PartSort2 中引用了该符号
+sort.obj : error LNK2019: 无法解析的外部符号 _PartSort1，函数 _QuickSort 中引用了该符号
+sort.obj : error LNK2019: 无法解析的外部符号 _Stackpush，函数 _QuickSortNonr 中引用了该符号
+D:\编程\C-C++\Sort-new\Debug\Sort-new.exe : fatal error LNK1120: 4 个无法解析的外部命令
